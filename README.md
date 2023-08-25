@@ -20,7 +20,7 @@ This app:
 
 ## Installation 
 
-To install the project, just download it from github at the link here: 
+To install the project, just download it from github at the link here: https://github.com/sophiawilliams16/SVG-logo-creator 
 
 Run the following commands to install Node.js:
 
